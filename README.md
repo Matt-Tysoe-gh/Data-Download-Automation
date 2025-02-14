@@ -18,6 +18,6 @@ Data Download Automation is a Python-based solution designed to streamline the p
 - Threading: For file monitoring and wait handling
 - Logging: For process tracking and debugging
 
-## Pipeline Roadmap
+## Roadmap
 - Externalise and secure configuration parameters (e.g., email subjects, folder paths) for easier maintenance and scalability.
 - Integrate with task schedulers (e.g., Azure Scheduler) to execute the script at regular intervals without manual intervention.
